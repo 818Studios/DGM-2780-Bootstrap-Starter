@@ -9,7 +9,7 @@ Test Website for Learning to Use Bootstrap v4
 
 2. Javascript Use
     a. Carousel speed, hover interaction and touch interaction.
-    b. Toast on Shop page.
+    b. Alert on Shop page.
 
 
     
